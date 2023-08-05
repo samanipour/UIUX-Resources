@@ -15,7 +15,8 @@
 1. [IxDF](https://www.interaction-design.org/)
 2. [Nielsen Norman Group](https://www.nngroup.com/)
 3. [Figma Blog](https://www.figma.com/blog/)
-
+4. [UXDesign.cc](https://uxdesign.cc/)
+5. [Smashing Magazine](https://www.smashingmagazine.com/)
 ## Tools and Platforms
 ### Design Tools
 1. [Figma](https://www.figma.com/)
