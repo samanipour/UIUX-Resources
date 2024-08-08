@@ -8,8 +8,10 @@
 
 ### UX Textbook References
 1. [What UX Is Really About :Introducing a Mindset for Great Experiences](/Textbooks/what-ux-really-about.pdf)
-2. [Lean UX: Designing Great Products with Agile Teams 3rd Edition](/Textbooks/Jeff%20Gothelf%2C%20Josh%20Seiden%20-%20Lean%20UX_%20Creating%20Great%20Products%20with%20Agile%20Teams-O'Reilly%20Media%20(2021).pdf)
-3. [Laws of UX: Using Psychology to Design Better Products & Services](/Textbooks/Jon%20Yablonski%20-%20Laws%20of%20UX_%20Design%20Principles%20for%20Persuasive%20and%20Ethical%20Products-O'Reilly%20Media%20(2020).pdf)
+2. [UX Design with Figma User-Centered Interface Design and Prototyping with Figma](/Textbooks/Tom%20Green_%20Kevin%20Brandon%20-%20UX%20Design%20with%20Figma_%20User-Centered%20Interface%20Design%20and%20Prototyping%20with%20Figma%20(Design%20Thinking)-Apress%20(2024).pdf)
+3. [THE ART AND SCIENCE of UX DESIGN A step-by-step guide to designing amazing user experiences](/Textbooks/Anthony%20Conta%20-%20The%20Art%20and%20Science%20of%20UX%20Design_%20A%20step-by-step%20guide%20to%20designing%20amazing%20user%20experiences-New%20Riders%20(2023).pdf)
+4. [Lean UX: Designing Great Products with Agile Teams 3rd Edition](/Textbooks/Jeff%20Gothelf%2C%20Josh%20Seiden%20-%20Lean%20UX_%20Creating%20Great%20Products%20with%20Agile%20Teams-O'Reilly%20Media%20(2021).pdf)
+5. [Laws of UX: Using Psychology to Design Better Products & Services](/Textbooks/Jon%20Yablonski%20-%20Laws%20of%20UX_%20Design%20Principles%20for%20Persuasive%20and%20Ethical%20Products-O'Reilly%20Media%20(2020).pdf)
 
 ### Online Resources
 1. [IxDF](https://www.interaction-design.org/)
